@@ -18,7 +18,7 @@ Analiza i wizualizacja grafu zostały wykonane w programie **Gephi**.
  
 
 
-[Analiza-lotow.pdf](./Analiza-lotow.pdf) – prezentacja projektu
+[Analiza lotow.pdf](./Analiza%20lotow.pdf) – prezentacja projektu
 
 
 
